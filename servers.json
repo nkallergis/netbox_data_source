@@ -1,0 +1,4 @@
+{
+  "ntp_server": "1.2.3.4",
+  "syslog_server": "5.6.7.8"
+}
